@@ -5,11 +5,14 @@
 ## Servidor backend
 
 Servidor backend implementado con NodeJS/ExpressJS.
-[CogenTech-server1](https://gitlab.com/da8y01/cogentech-server1)
+
+Modelo Entidad-Relación:
+[CogenTech-server1](https://github.com/da8y01/cogentech-server1)
 ![MER](./docs/MERv00.png)
 [MER (MySQL Workbench)](./docs/MERv00.mwb)
+[Forward Enginnering SQL script](./docs/ForwardEnginneringv01.sql)
 
 ## Aplicación cliente
 
 Aplicación frontend implementada con Angular framework.
-[CogenTech-ng3](https://gitlab.com/da8y01/cogentech-ng3)
+[CogenTech-ng3](https://github.com/da8y01/cogentech-ng3)

@@ -7,3 +7,10 @@
   /> -->
   <h2 class="listing-heading">{{ employee.name }} with Id {{ employee.id }}</h2>
 </section>
+
+<h2>Employees</h2>
+<ul>
+  <li *ngFor="let employee of employees">
+      <span class="badge">{{employee.id}}: {{employee.name}}</span>
+  </li>
+</ul>
